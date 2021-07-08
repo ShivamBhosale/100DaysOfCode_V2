@@ -1,2 +1,8 @@
-# 100DaysOfCode_V2
-I'm starting the 100 Days of code challenge again to improve my skills
+# 100DaysOfCode_V2 Challenge
+
+## Project 01
+<hr> 
+### Day 1
+
+
+
