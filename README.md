@@ -8,8 +8,12 @@ I begin practising DS in Python by implementing Stacks, Queues and Deques and so
 
 <hr>
 
-### Day 2- DS in Python
+### Day 2 - DS in Python
 I implemented a single and doubly linked list in python and practiced some common interview questions on the linked list.
 
+<hr>
+
+### Day 3 - Recursion using Python
+Today I practiced some common questions based on the concept of recursion algorithm and laughed at some memes based on recursion.
 
 
