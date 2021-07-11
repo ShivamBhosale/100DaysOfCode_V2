@@ -16,4 +16,8 @@ I implemented a single and doubly linked list in python and practiced some commo
 ### Day 3 - Recursion using Python
 Today I practiced some common questions based on the concept of recursion algorithm and laughed at some memes based on recursion.
 
+<hr>
+
+### Day 4 - Trees I
+As a part of the #100DaysOfCode Challenge I implemented trees in python, will be working on the same even tomorrow.  
 
