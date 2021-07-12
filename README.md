@@ -19,5 +19,10 @@ Today I practiced some common questions based on the concept of recursion algori
 <hr>
 
 ### Day 4 - Trees I
-As a part of the #100DaysOfCode Challenge I implemented trees in python, will be working on the same even tomorrow.  
+As a part of the #100DaysOfCode Challenge I implemented trees in python, will be working on the same even tomorrow.
+
+<hr>
+
+### Day 5 - Trees II
+I continued to work on trees in Python, and implemented tree using the node and reference method.
 
