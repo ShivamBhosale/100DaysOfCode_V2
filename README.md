@@ -26,3 +26,8 @@ As a part of the #100DaysOfCode Challenge I implemented trees in python, will be
 ### Day 5 - Trees II
 I continued to work on trees in Python, and implemented tree using the node and reference method.
 
+<hr>
+
+### Day 6 - Searching
+I performed searching using different techniques: Sequential, Binary and Hashing and practiced a few interview questions based on the same concept.
+
