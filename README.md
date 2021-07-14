@@ -31,3 +31,8 @@ I continued to work on trees in Python, and implemented tree using the node and 
 ### Day 6 - Searching
 I performed searching using different techniques: Sequential, Binary and Hashing and practiced a few interview questions based on the same concept.
 
+<hr>
+
+### Day 7 - Implementation of Hash Table
+I implemented hash table using the reminder function method in python and also studied the theory behind it.
+
