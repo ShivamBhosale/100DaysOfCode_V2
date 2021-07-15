@@ -9,12 +9,12 @@ I begin practising DS in Python by implementing Stacks, Queues and Deques and so
 <hr>
 
 ### Day 2 - DS in Python
-I implemented a single and doubly linked list in python and practiced some common interview questions on the linked list.
+I implemented a single and doubly linked list in python and practised some common interview questions on the linked list.
 
 <hr>
 
 ### Day 3 - Recursion using Python
-Today I practiced some common questions based on the concept of recursion algorithm and laughed at some memes based on recursion.
+Today I practised some common questions based on the concept of recursion algorithm and laughed at some memes based on recursion.
 
 <hr>
 
@@ -29,10 +29,14 @@ I continued to work on trees in Python, and implemented tree using the node and 
 <hr>
 
 ### Day 6 - Searching
-I performed searching using different techniques: Sequential, Binary and Hashing and practiced a few interview questions based on the same concept.
+I performed searching using different techniques: Sequential, Binary and Hashing and practised a few interview questions based on the same concept.
 
 <hr>
 
 ### Day 7 - Implementation of Hash Table
 I implemented hash table using the reminder function method in python and also studied the theory behind it.
 
+<hr>
+
+### Day 8 - Sorting I
+Today I practised different types of sorting techniques - Bubble, Selection ,and Insertion sort and solved some of the interview questions based on the same concepts.
