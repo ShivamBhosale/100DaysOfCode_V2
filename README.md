@@ -40,3 +40,9 @@ I implemented hash table using the reminder function method in python and also s
 
 ### Day 8 - Sorting I
 Today I practised different types of sorting techniques - Bubble, Selection ,and Insertion sort and solved some of the interview questions based on the same concepts.
+
+
+<hr>
+
+### Day 9 - Sorting II
+Today I practised different types of sorting techniques - Merge, Quick ,and Shell sort and solved some of the interview questions based on the same concepts.
