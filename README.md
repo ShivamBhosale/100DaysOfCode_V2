@@ -46,3 +46,9 @@ Today I practised different types of sorting techniques - Bubble, Selection ,and
 
 ### Day 9 - Sorting II
 Today I practised different types of sorting techniques - Merge, Quick ,and Shell sort and solved some of the interview questions based on the same concepts.
+
+
+<hr>
+
+### Day 10 - Revision
+I went back and Practised all the concepts which I learned/implemented in the past few days.
