@@ -52,3 +52,8 @@ Today I practised different types of sorting techniques - Merge, Quick ,and Shel
 
 ### Day 10 - Revision
 I went back and Practised all the concepts which I learned/implemented in the past few days.
+
+<hr>
+
+### Day 11 - Graphs I
+Today I studied the theory behind the graphs and implemented an adjacency list.
