@@ -57,3 +57,8 @@ I went back and Practised all the concepts which I learned/implemented in the pa
 
 ### Day 11 - Graphs I
 Today I studied the theory behind the graphs and implemented an adjacency list.
+
+<hr>
+
+### Day 12 - Pandas (Data Wrangling)
+I started practising Data Analysis from basics and performed Data Wrangling on vehicle dataset using pandas and numpy.
