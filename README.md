@@ -60,5 +60,9 @@ Today I studied the theory behind the graphs and implemented an adjacency list.
 
 <hr>
 
+### Buffer Day
+
+<hr>
+
 ### Day 12 - Pandas (Data Wrangling)
 I started practising Data Analysis from basics and performed Data Wrangling on vehicle dataset using pandas and numpy.
