@@ -66,3 +66,8 @@ Today I studied the theory behind the graphs and implemented an adjacency list.
 
 ### Day 12 - Pandas (Data Wrangling)
 I started practising Data Analysis from basics and performed Data Wrangling on vehicle dataset using pandas and numpy.
+
+<hr>
+
+### Day 13 - Pandas (Exploratory Data Analysis)
+Continued to work on the vehicle dataset, used seaborn and matplotlib libraries to visualize and compare different factors affecting the price of the vehicle.
