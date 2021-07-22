@@ -71,3 +71,8 @@ I started practising Data Analysis from basics and performed Data Wrangling on v
 
 ### Day 13 - Pandas (Exploratory Data Analysis)
 Continued to work on the vehicle dataset, used seaborn and matplotlib libraries to visualize and compare different factors affecting the price of the vehicle.
+
+<hr> 
+
+### Day 14 - Model Development using sklearn
+I used sklearn to build a linear regression models and visualized the data using matplotlib and seaborn.
