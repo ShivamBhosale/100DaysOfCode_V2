@@ -76,3 +76,8 @@ Continued to work on the vehicle dataset, used seaborn and matplotlib libraries 
 
 ### Day 14 - Model Development using sklearn
 I used sklearn to build a linear regression models and visualized the data using matplotlib and seaborn.
+
+<hr>
+
+### Day 15 - Model Evaluation and Refinement using sklearn
+I used the model built in the previous day to evaluate the model and find the optimal model.
