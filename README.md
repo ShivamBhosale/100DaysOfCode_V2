@@ -82,5 +82,7 @@ I used sklearn to build a linear regression models and visualized the data using
 ### Day 15 - Model Evaluation and Refinement using sklearn
 I used the model built in the previous day to evaluate the model and find the optimal model.
 
+<hr>
+
 ### Day 16 - Decision Tree on drug dataset
 I implemented decision tree on the drug dataset and visualized the data using matplotlib and seaborn.
