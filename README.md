@@ -86,3 +86,9 @@ I used the model built in the previous day to evaluate the model and find the op
 
 ### Day 16 - Decision Tree on drug dataset
 I implemented decision tree on the drug dataset and visualized the data using matplotlib and seaborn.
+
+<hr>
+
+### Buffer Day
+
+<hr>
