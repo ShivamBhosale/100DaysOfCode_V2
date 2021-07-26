@@ -92,3 +92,6 @@ I implemented decision tree on the drug dataset and visualized the data using ma
 ### Buffer Day
 
 <hr>
+
+### Day 17 - K-Nearest Neighbors on telecommunication dataset
+I implemented K-Nearest Neighbors on the telecommunication dataset and visualized its accuracy for different K values.
