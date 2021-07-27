@@ -95,3 +95,8 @@ I implemented decision tree on the drug dataset and visualized the data using ma
 
 ### Day 17 - K-Nearest Neighbors on telecommunication dataset
 I implemented K-Nearest Neighbors on the telecommunication dataset and visualized its accuracy for different K values.
+
+<hr>
+
+### Day 18 - Logistic Regression on telecommunication dataset
+I implemented Logistic Regression on the telecommunication dataset and compared the actual test data and predicted test data by visualizing it using matplotlib and seaborn.
