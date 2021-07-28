@@ -100,3 +100,8 @@ I implemented K-Nearest Neighbors on the telecommunication dataset and visualize
 
 ### Day 18 - Logistic Regression on telecommunication dataset
 I implemented Logistic Regression on the telecommunication dataset and compared the actual test data and predicted test data by visualizing it using matplotlib and seaborn.
+
+<hr>
+
+### Day 19 - Email Spam Classification
+As a part of #100DaysOfCode challenge, I built Email Spam Classification using Naive Bayes and svm.
