@@ -105,3 +105,8 @@ I implemented Logistic Regression on the telecommunication dataset and compared 
 
 ### Day 19 - Email Spam Classification
 As a part of #100DaysOfCode challenge, I built Email Spam Classification using Naive Bayes and svm.
+
+<hr>
+
+### Day 20 - Wine Quality Prediction
+I implemented different ML algorithms - Decision Tree, GaussianNB, Random Forest, K Nearest Neighbor on the wine dataset to predict the quality of the wine.
