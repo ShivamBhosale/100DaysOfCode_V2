@@ -110,3 +110,8 @@ As a part of #100DaysOfCode challenge, I built Email Spam Classification using N
 
 ### Day 20 - Wine Quality Prediction
 I implemented different ML algorithms - Decision Tree, GaussianNB, Random Forest, K Nearest Neighbor on the wine dataset to predict the quality of the wine.
+
+<hr>
+
+### Day 21 - Tkinter Text Editor
+Did a fun project today and made a Tkinter text editor.
