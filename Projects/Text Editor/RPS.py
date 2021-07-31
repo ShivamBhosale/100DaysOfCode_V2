@@ -3,7 +3,7 @@ import tkinter as tk
 
 window = tk.Tk()
 window.geometry("250x300")
-window.title("Rock Paper Scissors")
+window.title("Rock Paper Scissor")
 
 USER_SCORE = 0
 COMP_SCORE = 0
