@@ -115,3 +115,6 @@ I implemented different ML algorithms - Decision Tree, GaussianNB, Random Forest
 
 ### Day 21 - Tkinter Text Editor
 Did a fun project today and made a Tkinter text editor.
+
+### Day 22 - Tkinter Rock, Paper, Scissors Game
+Today as a part of #100DaysOfCode, I followed a tutorial and made rock, paper, scissors game using Tkinter module.
