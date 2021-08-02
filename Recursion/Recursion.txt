@@ -1,0 +1,10 @@
+Pros
+- Bridges the gap b/w elegance and complexity
+- Reduces the need for complex loops and auxiliary DS.
+- Can reduces time complexity easily with memoization.
+- Works really well with recursive structures like trees and graphs.
+
+Cons
+- Slowness due to CPU overhead.
+- can lead to out of memory errors/stack overflow exceptions.
+- can be unnecessarily complex if poorly constructed.
