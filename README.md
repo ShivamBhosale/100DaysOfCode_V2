@@ -128,4 +128,5 @@ Today as a part of #100DaysOfCode, I followed a tutorial and made rock, paper, s
 <hr>
 
 ### Day 23 - Problems in Recursion
-Solved some problems in recursion by following a video tutorial by The Simple Engineer.
+Solved some problems in recursion by following a video tutorial posted by freeCodeCamp.
+ 
