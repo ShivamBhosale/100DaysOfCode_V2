@@ -128,6 +128,7 @@ Today as a part of #100DaysOfCode, I followed a tutorial and made rock, paper, s
 <hr>
 
 ### Day 23 - Problems in Recursion
+<<<<<<< HEAD
 Solved some problems in recursion by following a video tutorial by The Simple Engineer.
 
 <hr>
@@ -136,3 +137,7 @@ Solved some problems in recursion by following a video tutorial by The Simple En
 Continued to solve some problems in recursion and practised the concepts.
 
 <hr>
+=======
+Solved some problems in recursion by following a video tutorial posted by freeCodeCamp.
+ 
+>>>>>>> e8314442ced2c455b3f279ca5f113d877e15beb6
