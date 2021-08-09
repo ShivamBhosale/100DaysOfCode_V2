@@ -1,7 +1,5 @@
 # 100DaysOfCode_V2 Challenge
 
-[![wakatime](https://wakatime.com/badge/github/ShivamBhosale/100DaysOfCode_V2.svg)](https://wakatime.com/badge/github/ShivamBhosale/100DaysOfCode_V2)
-
 <hr>
 
 ### Day 1 - DS in Python
