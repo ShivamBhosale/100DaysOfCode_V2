@@ -7,7 +7,7 @@ def arrMul(lst):
         prod *= lst[i]
         
         i += 1
-        
+    print ("First Four Pass",out)
     prod = 1
     i = len(lst) - 1
     
@@ -17,7 +17,7 @@ def arrMul(lst):
         i -= 1 
     return out
 
-print(arrMul([1,2,3,4]))
+print(arrMul([1,2,3,4,5]))
    
     
     
