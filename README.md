@@ -148,5 +148,7 @@ Did a thorough revision of topics I had practiced in the past few days.
 ### Day 26 - Basic Interview Questions
 I'm back after being off the grid for this long weekend and solved some basic interview questions. 
 
+<hr>
+
 ### Day 27 - Interview Questions 2
 I solved some more technical interview questions in python.
