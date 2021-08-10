@@ -1,6 +1,5 @@
 # 100DaysOfCode_V2 Challenge
 
-
 <hr>
 
 ### Day 1 - DS in Python
