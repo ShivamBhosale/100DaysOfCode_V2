@@ -1,0 +1,48 @@
+def fib(n):
+    if n == 1 or n == 0:
+        return n
+    else:
+        return fib(n-1) + fib(n-2)
+
+def dice(diceArray):
+---------------------
+from random import randint
+
+def dice():
+    return randint(1, 7)
+
+def roll_5():
+    roll = 7
+    
+    while roll > 5:
+        roll = dice()
+        print("The dice has rolled",roll)
+    print("Final roll",roll)
+
+dice()
+print(roll_5())
+
+------------------------
+
+from random import randint
+
+def dice():
+    return randint(1,5)
+
+def roll_7():
+    while true:
+        roll_1 = dice()
+        roll_2 = dice()
+
+        roll = (roll_1 - 1) * roll_2
+
+        if roll > 21:
+            continue
+    return roll % 7 + 1
+
+
+def name(s):
+    if len(s) == 0 or len(s) == 1:
+        return s
+    else:
+        return name(s[1:]) + s[0]
