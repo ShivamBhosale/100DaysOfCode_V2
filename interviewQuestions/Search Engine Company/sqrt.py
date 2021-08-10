@@ -4,7 +4,7 @@ def sqrt(a):
         if (ans%1==0):
             return int(ans)
         else:
-            return False
+            i += 1
             
-print(sqrt([25,32]))
+print(sqrt([12,32]))
         
