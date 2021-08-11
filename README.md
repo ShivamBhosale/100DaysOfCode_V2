@@ -156,6 +156,6 @@ I solved some more technical interview questions in python.
 <hr>
 
 ### Day 28 - Interview Questions 3
-I solved some more technical interview questions in python related to searching and sorting.
+I solved some more technical interview questions in python related to data structures and algorithms.
 
 <hr>
