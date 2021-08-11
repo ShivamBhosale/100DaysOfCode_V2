@@ -152,3 +152,8 @@ I'm back after being off the grid for this long weekend and solved some basic in
 
 ### Day 27 - Interview Questions 2
 I solved some more technical interview questions in python.
+
+<hr>
+
+### Day 28 - Interview Questions 3
+I solved some more technical interview questions in python related to searching and sorting.
