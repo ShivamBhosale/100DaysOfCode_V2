@@ -159,3 +159,6 @@ I solved some more technical interview questions in python.
 I solved some more technical interview questions in python related to data structures and algorithms.
 
 <hr>
+
+### 29 - Interview Questions 4
+I solved some more technical interview questions in python related to various operators and functions.

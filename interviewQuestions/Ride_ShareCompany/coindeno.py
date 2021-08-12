@@ -1,6 +1,5 @@
 def solution(n, coins):
     
-    # Set up our array for trakcing results
     arr = [1] + [0] * n
     
     for coin in coins:
