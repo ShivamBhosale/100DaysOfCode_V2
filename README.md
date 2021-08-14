@@ -165,5 +165,10 @@ I solved some more technical interview questions in python related to various op
 
 <hr>
 
+## Buffer Day
+
+<hr>
 ## Day 30 - Mnist and Fashion Mnist Deep Learning models
 I created a simple neural network model on the MNIST and fashion MNIST datasets. Although I have previously worked on deep learning models, I have decided to again start from scratch.
+
+<hr>
