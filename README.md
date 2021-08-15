@@ -173,3 +173,8 @@ I solved some more technical interview questions in python related to various op
 I created a simple neural network model on the MNIST and fashion MNIST datasets. Although I have previously worked on deep learning models, I have decided to again start from scratch.
 
 <hr>
+
+### Day 31 - Wine Quality Prediction using Deep Neural Networks.
+I implemented a deep neural network model on the wine quality dataset and visualized the data using matplotlib.
+
+<hr>
