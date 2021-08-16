@@ -178,3 +178,6 @@ I created a simple neural network model on the MNIST and fashion MNIST datasets.
 I implemented a deep neural network model on the wine quality dataset and visualized the data using matplotlib.
 
 <hr>
+
+### Day 32 - Binary Classification using Deep Neural Networks.
+I implemented a deep neural network model on the hotel dataset to predict cancellations in hotel reservations.
