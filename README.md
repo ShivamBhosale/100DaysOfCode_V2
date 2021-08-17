@@ -181,3 +181,6 @@ I implemented a deep neural network model on the wine quality dataset and visual
 
 ## Day 32 - Binary Classification using Deep Neural Networks.
 I implemented a deep neural network model on the hotel dataset to predict cancellations in hotel reservations.
+
+## Day 33 - Binary Classification using Transfer Learning.
+I performed image classification to classify between car and a truck using transfer learning method.
