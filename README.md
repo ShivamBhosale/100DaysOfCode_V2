@@ -184,3 +184,8 @@ I implemented a deep neural network model on the hotel dataset to predict cancel
 
 ## Day 33 - Binary Classification using Transfer Learning.
 I performed image classification to classify between car and a truck using transfer learning method.
+
+<hr>
+
+## Day 34 - NLP tokenizer
+I performed NLP tokenizer on the text data.
