@@ -189,3 +189,5 @@ I performed image classification to classify between car and a truck using trans
 
 ## Day 34 - NLP tokenizer
 I performed NLP tokenizer on the text data.
+
+<hr>
