@@ -190,5 +190,7 @@ I performed image classification to classify between car and a truck using trans
 ## Day 34 - NLP tokenizer
 I performed NLP tokenizer on the text data.
 
+<hr>
+
 ## Day 35 - Text Summarizer and Sentiment Analysis
 I performed text summarizer and sentiment analysis on the a article using TextBlob.
