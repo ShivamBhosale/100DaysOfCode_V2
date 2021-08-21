@@ -194,3 +194,10 @@ I performed NLP tokenizer on the text data.
 
 ## Day 35 - Text Summarizer and Sentiment Analysis
 I performed text summarizer and sentiment analysis on the a article using TextBlob.
+
+<hr>
+
+## Day 36 - Laptop Price Prediction using different ML algorithms
+I performed different ML algorithms on the laptop dataset to predict the price of the laptop.
+
+<hr>
