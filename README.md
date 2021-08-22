@@ -202,3 +202,8 @@ I performed different ML algorithms on the laptop dataset to predict the price o
 
 <hr>
 
+## Day 37 - GDP Prediction using different ML algorithms
+Performed different ML algorithms on the GDP dataset to predict the GDP of the country.
+
+<hr>
+
