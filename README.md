@@ -207,3 +207,5 @@ Performed different ML algorithms on the GDP dataset to predict the GDP of the c
 
 <hr>
 
+## Day 38 - Streamlit Machine Learning Application
+I created a Streamlit application to perform different ML algorithms on the different datasets.
