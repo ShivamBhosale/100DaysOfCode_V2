@@ -97,8 +97,7 @@ plt.scatter(x1, x2,
         c=Y, alpha=0.8,
         cmap='viridis')
 
-plt.xlabel('Principal Component 1')
-plt.ylabel('Principal Component 2')
+
 plt.colorbar()
 
 #plt.show()
