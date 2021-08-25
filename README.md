@@ -210,5 +210,11 @@ Performed different ML algorithms on the GDP dataset to predict the GDP of the c
 ## Day 38 - Streamlit Machine Learning Application
 I created a Streamlit application to perform different ML algorithms on the different datasets.
 
+<hr>
+
 ## Day 39 - Stroke Prediction using Decision Tree
 I implemented a decision tree model on the stroke dataset to predict stroke.
+
+<hr>
+
+## Buffer Day
