@@ -217,5 +217,11 @@ I implemented a decision tree model on the stroke dataset to predict stroke.
 
 <hr>
 
+## Buffer Day
+
+<hr>
+
 ## Day 40 - Covid 19 Tweet Analysis
 Performed sentiment analysis on the tweets related to COVID-19.
+
+<hr>
