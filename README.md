@@ -225,3 +225,6 @@ I implemented a decision tree model on the stroke dataset to predict stroke.
 Performed sentiment analysis on the tweets related to COVID-19.
 
 <hr>
+
+## Day 42 - Amazon Job Posting Analysis
+Performed data wrangling on the Amazon job dataset and visualized various trends.
