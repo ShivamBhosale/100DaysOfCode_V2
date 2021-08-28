@@ -228,3 +228,9 @@ Performed sentiment analysis on the tweets related to COVID-19.
 
 ## Day 42 - Amazon Job Posting Analysis
 Performed data wrangling on the Amazon job dataset and visualized various trends.
+
+<hr>
+
+## Buffer Day
+
+<hr>
