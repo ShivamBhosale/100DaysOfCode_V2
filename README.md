@@ -234,3 +234,6 @@ Performed data wrangling on the Amazon job dataset and visualized various trends
 ## Buffer Day
 
 <hr>
+
+## Day 43 - Mushroom Data Analysis and Class Prediction
+Today I did some data analysis on the mushroom dataset and predicted the class of the mushroom using Decision Tree and Random Forest algorithms.
