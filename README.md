@@ -237,3 +237,8 @@ Performed data wrangling on the Amazon job dataset and visualized various trends
 
 ## Day 43 - Mushroom Data Analysis and Class Prediction
 Today I did some data analysis on the mushroom dataset and predicted the class of the mushroom using Decision Tree and Random Forest algorithms.
+
+<hr>
+
+## Day 44 - SVM Cancer Prediction
+I implemented SVM model on the cancer dataset to predict the type of cancer.
