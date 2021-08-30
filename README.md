@@ -241,4 +241,4 @@ Today I did some data analysis on the mushroom dataset and predicted the class o
 <hr>
 
 ## Day 44 - SVM Cancer Prediction
-I implemented SVM model on the cancer dataset to predict the type of cancer.
+I implemented the SVM model on the cancer dataset to predict the type of cancer.
