@@ -242,3 +242,8 @@ Today I did some data analysis on the mushroom dataset and predicted the class o
 
 ## Day 44 - SVM Cancer Prediction
 I implemented the SVM model on the cancer dataset to predict the type of cancer.
+
+<hr>
+
+## Day 45 - CO2 Emissions Data Analysis
+I performed data analysis on the CO2 emissions dataset and visualized the various data aspects using matplotlib and seaborn.
