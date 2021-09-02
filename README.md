@@ -247,3 +247,10 @@ I implemented the SVM model on the cancer dataset to predict the type of cancer.
 
 ## Day 45 - CO2 Emissions Data Analysis
 I performed data analysis on the CO2 emissions dataset and visualized the various data aspects using matplotlib and seaborn.
+
+<hr>
+
+## Day 46 - Protocols in Swift
+Merged my iOS Dev coursework with my #100DaysOfCode, learned and practiced about protocols in Swift.
+
+<hr>
