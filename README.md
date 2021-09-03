@@ -254,3 +254,8 @@ I performed data analysis on the CO2 emissions dataset and visualized the variou
 Merged my iOS Dev coursework with my #100DaysOfCode, learned and practiced about protocols in Swift.
 
 <hr>
+
+## Day 47 - Delegate Design Pattern
+Learned about Delegate design pattern in Swift and implemented the same in the weather app I'm currently working on.
+
+<hr>
