@@ -259,3 +259,8 @@ Merged my iOS Dev coursework with my #100DaysOfCode, learned and practiced about
 Learned about Delegate design pattern in Swift and implemented the same in the weather app I'm currently working on.
 
 <hr>
+
+## Day 48 - Protocols and Delegates
+Praticed Protocols and Delegates in swift and made some progress in my weather application.
+
+<hr>
