@@ -261,6 +261,6 @@ Learned about Delegate design pattern in Swift and implemented the same in the w
 <hr>
 
 ## Day 48 - Protocols and Delegates
-Praticed Protocols and Delegates in swift and made some progress in my weather application.
+Practiced Protocols and Delegates in Swift, and made some progress in my weather application.
 
 <hr>
