@@ -264,3 +264,8 @@ Learned about Delegate design pattern in Swift and implemented the same in the w
 Practiced Protocols and Delegates in Swift, and made some progress in my weather application.
 
 <hr>
+
+## Day 49 - Closures in Swift
+Today I Learned about Closures in Swift and practiced their implementation in the playground.
+
+<hr>
