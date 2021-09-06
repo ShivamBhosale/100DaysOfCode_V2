@@ -269,3 +269,6 @@ Practiced Protocols and Delegates in Swift, and made some progress in my weather
 Today I Learned about Closures in Swift and practiced their implementation in the playground.
 
 <hr>
+
+## Day 50 - JSON Decoding in Swift
+Today I learned about JSON decoding in Swift and implemented it in my weather application.
