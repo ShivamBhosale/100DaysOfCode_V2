@@ -275,4 +275,5 @@ Today I learned about JSON decoding in Swift and implemented it in my weather ap
 
 <hr>
 
-## Buffer Day
+## Day 51 - Computed Property in Swift
+Today I learned about the computed property in Swift.
