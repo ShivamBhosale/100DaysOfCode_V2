@@ -280,7 +280,7 @@ Today I learned about the computed property in Swift.
 
 <hr>
 
-## Day 52 - Extensions and Default implimentations for protocols
+## Day 52 - Extensions and Default implementations for protocols
 I learned about the extensions in swift and practiced them in Swift playgrounds.
 
 <hr>
