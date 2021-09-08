@@ -266,7 +266,7 @@ Practiced Protocols and Delegates in Swift, and made some progress in my weather
 <hr>
 
 ## Day 49 - Closures in Swift
-Today I Learned about Closures in Swift and practiced their implementation in the playground.
+Today I learned about Closures in Swift and practiced their implementation in the playground.
 
 <hr>
 
@@ -280,3 +280,7 @@ Today I learned about the computed property in Swift.
 
 <hr>
 
+## Day 52 - Extensions and Default implimentations for protocols
+I learned about the extensions in swift and practiced them in Swift playgrounds.
+
+<hr>
