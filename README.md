@@ -284,3 +284,6 @@ Today I learned about the computed property in Swift.
 I learned about the extensions in swift and practiced them in Swift playgrounds.
 
 <hr>
+
+## Day 53 - Clima - The Weather Application
+Finally, completed my weather application today, made using Swift Programming Language.
