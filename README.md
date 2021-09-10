@@ -287,3 +287,7 @@ I learned about the extensions in swift and practiced them in Swift playgrounds.
 
 ## Day 53 - Clima - The Weather Application
 Finally, completed my weather application today, made using Swift Programming Language.
+
+<hr>
+
+## Buffer Day
