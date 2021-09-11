@@ -291,3 +291,5 @@ Finally, completed my weather application today, made using Swift Programming La
 <hr>
 
 ## Buffer Day
+
+<hr>
