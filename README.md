@@ -293,3 +293,8 @@ Finally, completed my weather application today, made using Swift Programming La
 ## Buffer Day
 
 <hr>
+
+## Day 54 - Problems on Hackerrank
+Solved a few problem-solving challenges on Hackerrank using Python.
+
+<hr>
