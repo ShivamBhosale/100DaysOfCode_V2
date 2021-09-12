@@ -298,3 +298,7 @@ Finally, completed my weather application today, made using Swift Programming La
 Solved a few problem-solving challenges on Hackerrank using Python.
 
 <hr>
+
+## Day 55 - Problems on Hackerrank 2
+Continued my practice by solving a few problems on hackerrank.
+
