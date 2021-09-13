@@ -302,3 +302,9 @@ Solved a few problem-solving challenges on Hackerrank using Python.
 ## Day 55 - Problems on Hackerrank 2
 Continued my practice by solving a few problems on hackerrank.
 
+<hr>
+
+## Day 56 - Navigation Control Stacks and Segues
+Learned about the navigation control stacks and segues in Swift.
+
+<hr>
