@@ -299,8 +299,8 @@ Solved a few problem-solving challenges on Hackerrank using Python.
 
 <hr>
 
-## Day 55 - Problems on Hackerrank 2
-Continued my practice by solving a few problems on hackerrank.
+## Day 55 - Problems on HackerRank 2
+Continued my practice by solving a few problems on HackerRank.
 
 <hr>
 
@@ -308,3 +308,6 @@ Continued my practice by solving a few problems on hackerrank.
 Learned about the navigation control stacks and segues in Swift.
 
 <hr>
+
+## Day 57 - Problems on HackerRank 3
+Continued my practice by solving a few problems on HackerRank.
