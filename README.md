@@ -295,7 +295,7 @@ Finally, completed my weather application today, made using Swift Programming La
 <hr>
 
 ## Day 54 - Problems on Hackerrank
-Solved a few problem-solving challenges on Hackerrank using Python.
+Solved a few problem-solving challenges on HackerRank using Python.
 
 <hr>
 
@@ -311,3 +311,10 @@ Learned about the navigation control stacks and segues in Swift.
 
 ## Day 57 - Problems on HackerRank 3
 Continued my practice by solving a few problems on HackerRank.
+
+<hr>
+
+## Day 58 - Problems on HackerRank 3
+Solved a few more problem-solving challenges on HackerRank using Python.
+
+<hr>
