@@ -318,3 +318,7 @@ Continued my practice by solving a few problems on HackerRank.
 Solved a few more problem-solving challenges on HackerRank using Python.
 
 <hr>
+
+## Buffer Day
+
+<hr>
