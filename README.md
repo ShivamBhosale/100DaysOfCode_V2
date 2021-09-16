@@ -174,151 +174,151 @@ I created a simple neural network model on the MNIST and fashion MNIST datasets.
 
 <hr>
 
-## Day 31 - Wine Quality Prediction using Deep Neural Networks.
+###  Day 31 - Wine Quality Prediction using Deep Neural Networks.
 I implemented a deep neural network model on the wine quality dataset and visualized the data using matplotlib.
 
 <hr>
 
-## Day 32 - Binary Classification using Deep Neural Networks.
+###  Day 32 - Binary Classification using Deep Neural Networks.
 I implemented a deep neural network model on the hotel dataset to predict cancellations in hotel reservations.
 
-## Day 33 - Binary Classification using Transfer Learning.
+### Day 33 - Binary Classification using Transfer Learning.
 I performed image classification to classify between car and a truck using transfer learning method.
 
 <hr>
 
-## Day 34 - NLP tokenizer
+### Day 34 - NLP tokenizer
 I performed NLP tokenizer on the text data.
 
 <hr>
 
-## Day 35 - Text Summarizer and Sentiment Analysis
+### Day 35 - Text Summarizer and Sentiment Analysis
 I performed text summarizer and sentiment analysis on the a article using TextBlob.
 
 <hr>
 
-## Day 36 - Laptop Price Prediction using different ML algorithms
+### Day 36 - Laptop Price Prediction using different ML algorithms
 I performed different ML algorithms on the laptop dataset to predict the price of the laptop.
 
 <hr>
 
-## Day 37 - GDP Prediction using different ML algorithms
+### Day 37 - GDP Prediction using different ML algorithms
 Performed different ML algorithms on the GDP dataset to predict the GDP of the country.
 
 <hr>
 
-## Day 38 - Streamlit Machine Learning Application
+### Day 38 - Streamlit Machine Learning Application
 I created a Streamlit application to perform different ML algorithms on the different datasets.
 
 <hr>
 
-## Day 39 - Stroke Prediction using Decision Tree
+### Day 39 - Stroke Prediction using Decision Tree
 I implemented a decision tree model on the stroke dataset to predict stroke.
 
 <hr>
 
-## Buffer Day
+### Buffer Day
 
 <hr>
 
-## Day 40 - Covid 19 Tweet Analysis
+### Day 40 - Covid 19 Tweet Analysis
 Performed sentiment analysis on the tweets related to COVID-19.
 
 <hr>
 
-## Day 42 - Amazon Job Posting Analysis
+### Day 42 - Amazon Job Posting Analysis
 Performed data wrangling on the Amazon job dataset and visualized various trends.
 
 <hr>
 
-## Buffer Day
+### Buffer Day
 
 <hr>
 
-## Day 43 - Mushroom Data Analysis and Class Prediction
+### Day 43 - Mushroom Data Analysis and Class Prediction
 Today I did some data analysis on the mushroom dataset and predicted the class of the mushroom using Decision Tree and Random Forest algorithms.
 
 <hr>
 
-## Day 44 - SVM Cancer Prediction
+### Day 44 - SVM Cancer Prediction
 I implemented the SVM model on the cancer dataset to predict the type of cancer.
 
 <hr>
 
-## Day 45 - CO2 Emissions Data Analysis
+### Day 45 - CO2 Emissions Data Analysis
 I performed data analysis on the CO2 emissions dataset and visualized the various data aspects using matplotlib and seaborn.
 
 <hr>
 
-## Day 46 - Protocols in Swift
+### Day 46 - Protocols in Swift
 Merged my iOS Dev coursework with my #100DaysOfCode, learned and practiced about protocols in Swift.
 
 <hr>
 
-## Day 47 - Delegate Design Pattern
+### Day 47 - Delegate Design Pattern
 Learned about Delegate design pattern in Swift and implemented the same in the weather app I'm currently working on.
 
 <hr>
 
-## Day 48 - Protocols and Delegates
+### Day 48 - Protocols and Delegates
 Practiced Protocols and Delegates in Swift, and made some progress in my weather application.
 
 <hr>
 
-## Day 49 - Closures in Swift
+### Day 49 - Closures in Swift
 Today I learned about Closures in Swift and practiced their implementation in the playground.
 
 <hr>
 
-## Day 50 - JSON Decoding in Swift
+### Day 50 - JSON Decoding in Swift
 Today I learned about JSON decoding in Swift and implemented it in my weather application.
 
 <hr>
 
-## Day 51 - Computed Property in Swift
+### Day 51 - Computed Property in Swift
 Today I learned about the computed property in Swift.
 
 <hr>
 
-## Day 52 - Extensions and Default implementations for protocols
+### Day 52 - Extensions and Default implementations for protocols
 I learned about the extensions in swift and practiced them in Swift playgrounds.
 
 <hr>
 
-## Day 53 - Clima - The Weather Application
+### Day 53 - Clima - The Weather Application
 Finally, completed my weather application today, made using Swift Programming Language.
 
 <hr>
 
-## Buffer Day
+### Buffer Day
 
 <hr>
 
-## Day 54 - Problems on Hackerrank
+### Day 54 - Problems on Hackerrank
 Solved a few problem-solving challenges on HackerRank using Python.
 
 <hr>
 
-## Day 55 - Problems on HackerRank 2
+### Day 55 - Problems on HackerRank 2
 Continued my practice by solving a few problems on HackerRank.
 
 <hr>
 
-## Day 56 - Navigation Control Stacks and Segues
+### Day 56 - Navigation Control Stacks and Segues
 Learned about the navigation control stacks and segues in Swift.
 
 <hr>
 
-## Day 57 - Problems on HackerRank 3
+### Day 57 - Problems on HackerRank 3
 Continued my practice by solving a few problems on HackerRank.
 
 <hr>
 
-## Day 58 - Problems on HackerRank 3
+### Day 58 - Problems on HackerRank 3
 Solved a few more problem-solving challenges on HackerRank using Python.
 
 <hr>
 
-## Buffer Day
+### Buffer Day
 
 <hr>
