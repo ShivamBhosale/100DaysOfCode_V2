@@ -323,7 +323,7 @@ Solved a few more problem-solving challenges on HackerRank using Python.
 
 <hr>
 
-### Day 59 - Introduction to Cocapods 
-Learned about the Cocapods and used the CLTypingLabel in my Xcode project.
+### Day 59 - Introduction to CocoaPods
+Learned about the CocoaPods and used the CLTypingLabel in my Xcode project.
 
 <hr>
