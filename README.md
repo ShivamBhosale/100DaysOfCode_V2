@@ -322,3 +322,8 @@ Solved a few more problem-solving challenges on HackerRank using Python.
 ### Buffer Day
 
 <hr>
+
+### Day 59 - Introduction to Cocapods 
+Learned about the Cocapods and used the CLTypingLabel in my Xcode project.
+
+<hr>
