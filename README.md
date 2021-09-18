@@ -327,3 +327,7 @@ Solved a few more problem-solving challenges on HackerRank using Python.
 Learned about the CocoaPods and used the CLTypingLabel in my Xcode project.
 
 <hr>
+
+### Buffer Day 
+
+<hr>
