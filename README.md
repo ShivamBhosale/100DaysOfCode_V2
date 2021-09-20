@@ -331,3 +331,8 @@ Learned about the CocoaPods and used the CLTypingLabel in my Xcode project.
 ### Buffer Day 
 
 <hr>
+
+### Day 60 - Problems on HackerRank 4
+Solved a few questions on HackerRank and finally after a lot of denial started off with web development.
+
+<hr>
