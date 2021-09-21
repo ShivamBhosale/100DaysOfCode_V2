@@ -336,3 +336,9 @@ Learned about the CocoaPods and used the CLTypingLabel in my Xcode project.
 Solved a few questions on HackerRank and finally after a lot of denial started off with web development.
 
 <hr>
+
+### Day 61 - Web Development I
+Followed the freecodecamp playlist on web development.
+
+<hr>
+
