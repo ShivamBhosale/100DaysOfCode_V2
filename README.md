@@ -338,7 +338,7 @@ Solved a few questions on HackerRank and finally after a lot of denial started o
 <hr>
 
 ### Day 61 - Web Development I
-Followed the freecodecamp playlist on web development.
+Followed the freeCodeCamp playlist on web development.
 
 <hr>
 
