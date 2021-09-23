@@ -343,4 +343,11 @@ Followed the freeCodeCamp playlist on web development.
 <hr>
 
 ### Day 62 - Web Development II
-Continued with the freeCodeCamp playlist on web development and practiced some CSS. 
+Continued with the freeCodeCamp playlist on web development and practiced some CSS.
+
+<hr>
+
+### Day 63 - Web Development III
+Continued with the freeCodeCamp playlist and learned more about CSS.
+
+<hr>
