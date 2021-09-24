@@ -351,3 +351,9 @@ Continued with the freeCodeCamp playlist on web development and practiced some C
 Continued with the freeCodeCamp playlist and learned more about CSS.
 
 <hr>
+
+### Day 64 - Web Development IV
+Been doing CSS this whole week and continues the same trend even today.
+
+<hr>
+
