@@ -357,3 +357,7 @@ Been doing CSS this whole week and continues the same trend even today.
 
 <hr>
 
+### Day 65 - Web Development V
+Continued my CSS progress today.
+
+<hr>
