@@ -367,3 +367,5 @@ Continued my CSS progress today.
 <hr>
 
 ### Buffer Day
+
+<hr>
