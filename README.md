@@ -377,3 +377,10 @@ Continued my CSS progress today.
 ### Buffer Day
 
 <hr>
+
+## Wow this was a bigggg break
+
+<hr>
+
+### Day 66 - Web Development VI
+After a really long break I'm resuming my CSS Journey.
