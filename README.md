@@ -384,3 +384,10 @@ Continued my CSS progress today.
 
 ### Day 66 - Web Development VI
 After a really long break I'm resuming my CSS Journey.
+
+<hr>
+
+### Day 67 - Web Development VII
+Completed the HTML + CSS playlist, will be practising the same throughout this week.
+
+<hr>
