@@ -391,3 +391,8 @@ After a really long break I'm resuming my CSS Journey.
 Completed the HTML + CSS playlist, will be practising the same throughout this week.
 
 <hr>
+
+### Day 68 - Web Development VII
+Today I Practiced transitions in CSS and worked on a landing page.
+
+<hr>
