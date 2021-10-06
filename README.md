@@ -392,7 +392,7 @@ Completed the HTML + CSS playlist, will be practising the same throughout this w
 
 <hr>
 
-### Day 68 - Web Development VII
+### Day 68 - Web Development VIII
 Today I Practiced transitions in CSS and worked on a landing page.
 
 <hr>
