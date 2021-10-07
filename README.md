@@ -396,3 +396,8 @@ Completed the HTML + CSS playlist, will be practising the same throughout this w
 Today I Practiced transitions in CSS and worked on a landing page.
 
 <hr>
+
+### Day 69 - Web Development IX
+Made a portfolio template using all the HTML + CSS I had learned during this week.
+
+<hr>
