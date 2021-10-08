@@ -401,3 +401,8 @@ Today I Practiced transitions in CSS and worked on a landing page.
 Made a portfolio template using all the HTML + CSS I had learned during this week.
 
 <hr>
+
+### Day 70 - Web Development X
+Today I played with the Tailwind CSS, will read the documentation to understand it better.
+
+<hr>
