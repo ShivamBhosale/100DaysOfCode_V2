@@ -406,3 +406,8 @@ Made a portfolio template using all the HTML + CSS I had learned during this wee
 Today I played with the Tailwind CSS, will read the documentation to understand it better.
 
 <hr>
+
+### Day 71 - Web Development XI
+Practiced flex box property in CSS, will be starting with JS this Monday.
+
+<hr>
