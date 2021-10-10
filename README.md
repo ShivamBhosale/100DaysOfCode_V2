@@ -411,3 +411,5 @@ Today I played with the Tailwind CSS, will read the documentation to understand 
 Practiced flex box property in CSS, will be starting with JS this Monday.
 
 <hr>
+
+### Buffer Day
