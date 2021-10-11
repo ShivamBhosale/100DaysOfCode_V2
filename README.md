@@ -413,3 +413,7 @@ Practiced flex box property in CSS, will be starting with JS this Monday.
 <hr>
 
 ### Buffer Day
+
+<hr>
+
+### Buffer Day
