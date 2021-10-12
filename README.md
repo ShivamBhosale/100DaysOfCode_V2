@@ -417,3 +417,8 @@ Practiced flex box property in CSS, will be starting with JS this Monday.
 <hr>
 
 ### Buffer Day
+
+<hr>
+
+### Day 72 - Web Development XII
+Started learning JavaScript today, by following a tutorial by freecodecamp.
