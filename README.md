@@ -422,3 +422,10 @@ Practiced flex box property in CSS, will be starting with JS this Monday.
 
 ### Day 72 - Web Development XII
 Started learning JavaScript today, by following a tutorial by freecodecamp.
+
+<hr>
+
+### Day 73 - Web Development XIII
+Working on a Blackjack game using HTML + CSS and Vanilla JS.
+
+<hr>
