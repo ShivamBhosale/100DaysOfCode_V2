@@ -429,3 +429,8 @@ Started learning JavaScript today, by following a tutorial by freecodecamp.
 Working on a Blackjack game using HTML + CSS and Vanilla JS.
 
 <hr>
+
+### Day 74 - Web Development XIV
+Continued Working on a Blackjack game using HTML + CSS and Vanilla JS.
+
+<hr>
