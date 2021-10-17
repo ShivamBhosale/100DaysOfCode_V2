@@ -434,3 +434,5 @@ Working on a Blackjack game using HTML + CSS and Vanilla JS.
 Completed the Blackjack game I had been working on, made using HTML + CSS and Vanilla JS.
 
 <hr>
+
+### Buffer Day
