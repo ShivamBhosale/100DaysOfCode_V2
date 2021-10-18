@@ -436,3 +436,8 @@ Completed the Blackjack game I had been working on, made using HTML + CSS and Va
 <hr>
 
 ### Buffer Day
+
+### Day 75 - Web Development XV
+Continuing learning JS by working on a Chrome extension.
+
+<hr>
