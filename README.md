@@ -441,3 +441,8 @@ Completed the Blackjack game I had been working on, made using HTML + CSS and Va
 Continuing learning JS by working on a Chrome extension.
 
 <hr>
+
+### Day 76 - Web Development XVI
+Made some more progress in JS.
+
+<hr>
