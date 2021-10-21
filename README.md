@@ -446,3 +446,8 @@ Continuing learning JS by working on a Chrome extension.
 Made some more progress in JS.
 
 <hr>
+
+### Day 77 - Web Development XVII
+Practiced some more of web dev using vanilla JS.
+
+<hr>
