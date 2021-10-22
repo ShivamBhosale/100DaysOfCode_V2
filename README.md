@@ -437,6 +437,8 @@ Completed the Blackjack game I had been working on, made using HTML + CSS and Va
 
 ### Buffer Day
 
+<hr>
+
 ### Day 75 - Web Development XV
 Continuing learning JS by working on a Chrome extension.
 
@@ -449,5 +451,10 @@ Made some more progress in JS.
 
 ### Day 77 - Web Development XVII
 Practiced some more of web dev using vanilla JS.
+
+<hr>
+
+## Day 78 - Web Development XVIII
+Completed a lead tracker extension using vanilla JS, thanks to FreeCodeCamp for providing the perfect JS playlist.
 
 <hr>
