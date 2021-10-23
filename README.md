@@ -454,7 +454,11 @@ Practiced some more of web dev using vanilla JS.
 
 <hr>
 
-## Day 78 - Web Development XVIII
+### Day 78 - Web Development XVIII
 Completed a lead tracker extension using vanilla JS, thanks to FreeCodeCamp for providing the perfect JS playlist.
+
+<hr>
+
+### Buffer Day 
 
 <hr>
