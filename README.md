@@ -462,3 +462,9 @@ Completed a lead tracker extension using vanilla JS, thanks to FreeCodeCamp for 
 ### Buffer Day 
 
 <hr>
+
+### Day 79 - DS and Algo
+Took a break from Web Dev. for today and solved a few problems on HackerRack.
+
+<hr>
+
