@@ -468,3 +468,7 @@ Took a break from Web Dev. for today and solved a few problems on HackerRack.
 
 <hr>
 
+### Day 80 - Web Development XIX
+Played a bit with CSS Variables and JS. Will soon start with React.
+
+<hr>
