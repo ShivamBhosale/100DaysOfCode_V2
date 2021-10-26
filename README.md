@@ -472,3 +472,8 @@ Took a break from Web Dev. for today and solved a few problems on HackerRack.
 Played a bit with CSS Variables and JS. Will soon start with React.
 
 <hr>
+
+### Day 81 - Web Development XX
+Build a task manager using vanilla JS.
+
+<hr>
