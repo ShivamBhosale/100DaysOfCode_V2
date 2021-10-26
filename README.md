@@ -474,6 +474,6 @@ Played a bit with CSS Variables and JS. Will soon start with React.
 <hr>
 
 ### Day 81 - Web Development XX
-Build a task manager using vanilla JS.
+Build a responsive task manager using vanilla JS.
 
 <hr>
