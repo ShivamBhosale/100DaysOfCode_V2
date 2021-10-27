@@ -479,6 +479,6 @@ Build a responsive task manager using vanilla JS.
 <hr>
 
 ### Day 82 - Web Development XXI
-Build a weather application using openWeatherAPI
+Build a weather application using JS using openweathermap for API calls.
 
 <hr>
