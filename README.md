@@ -477,3 +477,8 @@ Played a bit with CSS Variables and JS. Will soon start with React.
 Build a responsive task manager using vanilla JS.
 
 <hr>
+
+### Day 82 - Web Development XXI
+Build a weather application using openWeatherAPI
+
+<hr>
