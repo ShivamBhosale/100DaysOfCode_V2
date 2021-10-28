@@ -482,3 +482,8 @@ Build a responsive task manager using vanilla JS.
 Build a weather application using JS using openweathermap for API calls.
 
 <hr>
+
+### Day 83 - Web Development XXII
+Working on yet another JS project which will be using TheMealDB API to find dishes as per the requested ingredient.
+
+<hr>
