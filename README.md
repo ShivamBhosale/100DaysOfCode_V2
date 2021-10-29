@@ -487,3 +487,8 @@ Build a weather application using JS using openweathermap for API calls.
 Working on yet another JS project which will be using TheMealDB API to find dishes as per the requested ingredient.
 
 <hr>
+
+### Day 84 - Web Development XXII
+Completed the recipe finder web application made using Vanilla JS and  TheMealDB API.
+
+<hr>
