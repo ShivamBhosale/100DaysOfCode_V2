@@ -492,3 +492,7 @@ Working on yet another JS project which will be using TheMealDB API to find dish
 Completed the recipe finder web application made using Vanilla JS and  TheMealDB API.
 
 <hr>
+
+### Buffer Day
+
+<hr>
