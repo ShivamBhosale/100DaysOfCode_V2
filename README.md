@@ -489,10 +489,15 @@ Working on yet another JS project which will be using TheMealDB API to find dish
 <hr>
 
 ### Day 84 - Web Development XXII
-Completed the recipe finder web application made using Vanilla JS and  TheMealDB API.
+Completed the recipe finder web application made using Vanilla JS and TheMealDB API.
 
 <hr>
 
 ### Buffer Day
 
 <hr>
+
+### Day 85 - Web Development XXIII
+Using the Advice Slip API made a 'Wiser Application' which gives a random life advice.
+
+<br>
