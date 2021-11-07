@@ -501,3 +501,8 @@ Completed the recipe finder web application made using Vanilla JS and TheMealDB 
 Using the Advice Slip API made a 'Wiser Application' which gives a random life advice.
 
 <br>
+
+### Day 86 - Web Development XXIV
+Learning to make responsive web design using the media queries.
+
+<br>
