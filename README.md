@@ -506,3 +506,8 @@ Using the Advice Slip API made a 'Wiser Application' which gives a random life a
 Learning to make responsive web design using the media queries.
 
 <br>
+
+###  Day 87 - Web Development XXV
+Made a URL shortner in vanilla JS using the shrtco API.
+
+<br>
