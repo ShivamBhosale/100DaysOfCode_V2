@@ -511,3 +511,8 @@ Learning to make responsive web design using the media queries.
 Made a URL shortener in vanilla JS using the shrtco API.
 
 <br>
+
+### Day 88 -  Web Development XXVI
+Made a card memory game using JS.
+
+<br>
