@@ -516,3 +516,8 @@ Made a URL shortener in vanilla JS using the shrtco API.
 Made a card memory game using JS.
 
 <br>
+
+### Day 89 - Web Development XXVII
+Made a Whac-A-Mole game in vanilla JS.
+
+<br>
