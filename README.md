@@ -526,3 +526,8 @@ Made a Whac-A-Mole game in vanilla JS.
 Using the Free Dictionary API, I made a Dictionary Application.
 
 <br>
+
+### Day 91 - Web Development XXIX
+Back after a really long time, practice some of the ES6 JS concepts.
+
+<br>
