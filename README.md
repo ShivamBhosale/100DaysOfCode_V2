@@ -500,34 +500,34 @@ Completed the recipe finder web application made using Vanilla JS and TheMealDB 
 ### Day 85 - Web Development XXIII
 Using the Advice Slip API made a 'Wiser Application' which gives a random life advice.
 
-<br>
+<hr>
 
 ### Day 86 - Web Development XXIV
 Learning to make responsive web design using the media queries.
 
-<br>
+<hr>
 
 ###  Day 87 - Web Development XXV
 Made a URL shortener in vanilla JS using the shrtco API.
 
-<br>
+<hr>
 
 ### Day 88 -  Web Development XXVI
 Made a card memory game using JS.
 
-<br>
+<hr>
 
 ### Day 89 - Web Development XXVII
 Made a Whac-A-Mole game in vanilla JS.
 
-<br>
+<hr>
 
 ### Day 90 - Web Development XXVIII
 Using the Free Dictionary API, I made a Dictionary Application.
 
-<br>
+<hr>
 
 ### Day 91 - Web Development XXIX
 Back after a really long time, practice some of the ES6 JS concepts.
 
-<br>
+<hr>
