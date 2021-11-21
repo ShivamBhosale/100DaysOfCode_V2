@@ -531,3 +531,6 @@ Using the Free Dictionary API, I made a Dictionary Application.
 Back after a really long time, practice some of the ES6 JS concepts.
 
 <hr>
+
+### Day 92 - Web Development XXX
+Practised callbacks in JS.
