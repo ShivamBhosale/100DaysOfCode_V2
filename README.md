@@ -534,3 +534,10 @@ Back after a really long time, practice some of the ES6 JS concepts.
 
 ### Day 92 - Web Development XXX
 Practised callbacks in JS.
+
+<hr>
+
+### Day 93 - Web Development XXXI
+Today I praticed promises in JS.
+
+<hr>
