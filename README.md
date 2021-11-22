@@ -538,6 +538,6 @@ Practised callbacks in JS.
 <hr>
 
 ### Day 93 - Web Development XXXI
-Today I praticed promises in JS.
+Today I practiced promises in JS.
 
 <hr>
