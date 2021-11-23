@@ -541,3 +541,8 @@ Practised callbacks in JS.
 Today I practiced promises in JS.
 
 <hr>
+
+### Day 94 - Web Development XXXII
+Learned about the async/await function in JS.
+
+<hr>
