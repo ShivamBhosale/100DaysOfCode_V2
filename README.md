@@ -548,6 +548,6 @@ Learned about the async/await function in JS.
 <hr>
 
 ### Day 95 - Web Development XXXIII
-Didn't do much today just practiced some of the JS concepts.
+Didn't do much today, just practiced some JS concepts.
 
 <hr>
