@@ -551,3 +551,8 @@ Learned about the async/await function in JS.
 Didn't do much today, just practiced some JS concepts.
 
 <hr>
+
+### Day 96 - Web Development XXXIV
+Praticed a few questions on HackerRank and freeCodeCamp.
+
+<hr>
