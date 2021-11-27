@@ -556,3 +556,8 @@ Didn't do much today, just practiced some JS concepts.
 Praticed a few questions on HackerRank and freeCodeCamp.
 
 <hr>
+
+### Day 97 - Web Development XXXV
+Progressed further by solving some JS questions.
+
+<hr>
