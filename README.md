@@ -561,3 +561,8 @@ Praticed a few questions on HackerRank and freeCodeCamp.
 Progressed further by solving some JS questions.
 
 <hr>
+
+### Day 98 - Web Development XXXVI
+Solved some more problems in JS.
+
+<hr>
