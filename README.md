@@ -569,5 +569,7 @@ Solved some more problems in JS.
 
 <hr>
 
-### Day - 99
+### Day 99 - Web Development XXXVII
 Solved some questions on HackerRank related to JS.
+
+<hr>
