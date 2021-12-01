@@ -573,3 +573,8 @@ Solved some more problems in JS.
 Solved some questions on HackerRank related to JS.
 
 <hr>
+
+### Day 100 - Web Development XXXVIII
+Practiced a few general programming question both in JS and Python, done with the challenge will be taking a break for a while and begin learning React soon.
+
+<hr>
